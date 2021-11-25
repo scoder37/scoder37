@@ -19,7 +19,7 @@ I am a Freelance Mobile and Web Developer who is exploring Cloud :cloud: while f
  💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
 
 
-![Profile views](https://gpvc.arturio.dev/scoder37)  <img src="https://img.shields.io/github/followers/scoder37?label=Followers" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/scoder37)  <img src="https://i.ibb.co/mcrfypc/IMG-20211125-WA0080.jpg" style=" float:left, margin-right:10px" />
 
 
 ---
